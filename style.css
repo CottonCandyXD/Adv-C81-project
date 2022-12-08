@@ -1,0 +1,16 @@
+.bodybc
+{
+background-image: url("bg1.jpg");
+background-position: center;
+background-size: cover;
+text-align: center;
+}
+
+#mycanvas {
+background-color: rgb(250, 250, 251);
+border-style: solid;
+
+}
+
+
+
